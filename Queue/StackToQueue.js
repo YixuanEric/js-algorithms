@@ -1,6 +1,6 @@
 /* Implement a Queue data using two stacks. Do not create an array inside of the 'Queue' class.*/
 
-const Stack = require ('../Stacks/Stack')
+const Stack = require('../Stacks/Stack.js')
 
 class Queue{
     constructor(){
